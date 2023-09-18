@@ -17,7 +17,7 @@ To use this code, you will need the following:
 -   An IFTTT account (You can create one using the link: [Create Account](https://ifttt.com/join))
 -   A webhook URL for the event you want to trigger
 -   Python 3.6 or higher installed on your system
--   The requests library installed. You can install it using `pip install requests` in your terminal/command prompt.
+-   The requests library installed. You can install it using `pip install requests` in your terminal or command prompt.
 
 ## Installation
 

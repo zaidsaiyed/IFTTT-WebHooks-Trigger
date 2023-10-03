@@ -6,6 +6,7 @@ It should look like this:
 def get_key():
     return "YOUR_IFTTT_KEY_HERE"
 '''
+
 key = keys.get_key()
 event_name = "test_event"
 
